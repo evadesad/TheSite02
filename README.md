@@ -1,19 +1,15 @@
-# Aventech one-page website
+# Aventech — luxury editorial direction
 
-A lightweight, responsive English and Russian company site built with plain HTML, CSS and JavaScript.
+A responsive English and Russian one-page site for Aventech, built with plain HTML, CSS and JavaScript.
 
 ## Preview
 
-Open `index.html` in a browser. The language control in the header switches the page between English and Russian.
+Open `index.html` in a browser. Use the EN / RU control in the header to switch languages.
 
-## Content
+## Contact form
 
-The page presents Aventech's services: user IT support, IT equipment support, and cash register service. Contact details shown on the page are fictional Polish-format placeholders and must be replaced before launch.
+The enquiry form prepares a draft addressed to the placeholder kontakt@example.invalid in the visitor’s email app. It does not submit or store form data. A visitor chooses whether to send the message.
 
 ## Publish
 
-Publish the repository root as a static site. No build step is required. The existing public site remains live until the business chooses to point its domain to this version.
-
-## Enquiry form
-
-The enquiry form prepares a message in the visitor’s email app addressed to the placeholder kontakt@example.invalid. It does not send or store form data itself. To receive submissions directly from the website, connect an approved form provider or backend first.
+Publish the repository root as a static site. No build step is required. The live Aventech domain remains unchanged until its owner chooses to point it to this version.
