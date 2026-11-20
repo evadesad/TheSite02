@@ -1,6 +1,6 @@
-# Aventech — luxury editorial direction
+# IT support outsourcing — luxury editorial direction
 
-A responsive English and Russian one-page site for Aventech, built with plain HTML, CSS and JavaScript.
+A responsive English and Russian one-page site for IT support provider, built with plain HTML, CSS and JavaScript.
 
 ## Preview
 
@@ -12,4 +12,4 @@ The enquiry form prepares a draft addressed to the placeholder kontakt@example.i
 
 ## Publish
 
-Publish the repository root as a static site. No build step is required. The live Aventech domain remains unchanged until its owner chooses to point it to this version.
+Publish the repository root as a static site. No build step is required. The existing company domain remains unchanged until its owner chooses to point it to this version.
