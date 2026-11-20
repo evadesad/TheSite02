@@ -1,4 +1,4 @@
-# Aventech one-page website
+# IT support outsourcing website
 
 A lightweight, responsive English and Russian company site built with plain HTML, CSS and JavaScript.
 
@@ -8,7 +8,7 @@ Open `index.html` in a browser. The language control in the header switches the 
 
 ## Content
 
-The page presents Aventech's services: user IT support, IT equipment support, and cash register service. Contact details shown on the page are fictional Polish-format placeholders and must be replaced before launch.
+The page presents these services: user IT support, IT equipment support, and cash register service. Contact details shown on the page are fictional Polish-format placeholders and must be replaced before launch.
 
 ## Publish
 
