@@ -1,6 +1,6 @@
 # IT support outsourcing — luxury editorial direction
 
-A responsive English and Russian one-page site for IT support provider, built with plain HTML, CSS and JavaScript.
+A responsive English and Russian one-page site for an IT support outsourcing provider, built with plain HTML, CSS and JavaScript.
 
 ## Preview
 
